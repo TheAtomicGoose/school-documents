@@ -1,0 +1,4 @@
+Name:     Jesse
+Email:     jesse27999@gmail.com
+Favorite Color:     Blue
+Yearly Income:     500.00f
