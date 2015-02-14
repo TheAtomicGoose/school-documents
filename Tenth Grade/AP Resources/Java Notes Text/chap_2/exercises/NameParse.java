@@ -1,6 +1,7 @@
 /*
  * This program takes a first and last name and returns the two names separately,
  * the respective lengths of the first and last names, and the user's initials.
+ * Note that it will crash if the input does not contain a space.
  *
  * This program was written as an exercise for the Java Notes online textbook on
  * 02-09-2015 by Jesse Evers.

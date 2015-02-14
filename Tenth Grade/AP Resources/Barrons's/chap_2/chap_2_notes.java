@@ -61,4 +61,3 @@ Static methods apply to all instances of the class, not just a specific object.
 /* Scope */
 
 The scope of a variable or method is the region in which that variable or method is visible and can be accessed.
-
