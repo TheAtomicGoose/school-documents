@@ -57,7 +57,7 @@ public class Activity5 {
 		}
 
 		if (count != original.length()) {
-			System.out.println("Error: incorrect characters");
+			System.out.println("Error: Incorrect characters");
 			return;
 		}
 		

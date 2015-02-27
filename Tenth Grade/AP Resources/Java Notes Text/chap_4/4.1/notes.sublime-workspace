@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"cars_",
+				"cars_not_driven"
+			],
+			[
+				"num",
+				"num_of_vehicles"
+			],
+			[
+				"n",
+				"num_of_vehicles"
+			],
+			[
+				"acce",
+				"accelerate"
+			],
+			[
+				"contac",
+				"contact_data"
+			],
+			[
+				"usepac",
+				"usepackage[options]{package}	latex-document"
+			],
+			[
+				"usepack",
+				"usepackage{package}	latex-document"
+			],
+			[
+				"end",
+				"end{document}	Ideals of American Lit.tex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 312.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"LANG=en_US.UTF-8 sublime_text",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"~/.Xresources"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jesse/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jesse/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jesse/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jesse/development/learningrubyrails/railstut/sample_app/app/views/layouts/application.html.erb",
+		"/home/jesse/development/learningrubyrails/railstut/demo_app/config/application.rb",
+		"/usr/bin/screen-4.2.1",
+		"/usr/bin/nmcli",
+		"/home/jesse/desktop/FTB/direwolf20_17/minecraft/logs/2014-11-08-1.log.gz",
+		"/home/jesse/.vimrc",
+		"/home/jesse/.zshrc",
+		"/home/jesse/development/rubyhardway/ex18.rb",
+		"/home/jesse/development/rubyhardway/ex17_read.rb",
+		"/home/jesse/development/rubyhardway/ex17_write.rb",
+		"/home/jesse/development/rubyhardway/ex17.rb",
+		"/home/jesse/development/rubyhardway/ex15.rb",
+		"/home/jesse/development/rubyhardway/ex16.rb",
+		"/home/jesse/development/rubyhardway/ex16_editable.txt",
+		"/home/jesse/development/rubyhardway/ex15_sample.txt",
+		"/home/jesse/development/rubyhardway/ex14.rb",
+		"/home/jesse/development/keydict/main/index.html",
+		"/home/jesse/development/keydict/main/style.css",
+		"/home/jesse/development/keydict/layout.md",
+		"/home/jesse/.config/sublime-text-3/Packages/LaTeXing/Default (Linux).sublime-keymap",
+		"/home/jesse/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/jesse/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/jesse/development/keydict/readme.md",
+		"/home/jesse/development/keydict/index.html",
+		"/home/jesse/development/rubyhardway/ex13.rb",
+		"/home/jesse/development/rubyhardway/ex12.rb",
+		"/home/jesse/development/rubyhardway/ex12b.rb",
+		"/home/jesse/development/rubyhardway/ex11.rb",
+		"/home/jesse/development/rubyhardway/ex10.rb",
+		"/home/jesse/development/rubyhardway/ex9.rb",
+		"/home/jesse/development/rubyhardway/ex8.rb",
+		"/home/jesse/development/rubyhardway/ex7.rb",
+		"/home/jesse/development/rubyhardway/ex6.rb",
+		"/home/jesse/development/rubyhardway/ex5.rb",
+		"/home/jesse/development/rubyhardway/ex4.rb",
+		"/home/jesse/development/rubyhardway/ex3.rb",
+		"/home/jesse/development/rubyhardway/ex2.rb",
+		"/home/jesse/development/rubyhardway/ex1.rb",
+		"/home/jesse/desktop/zsh-git-prompt/zshrc.sh",
+		"/home/jesse/desktop/dotfiles/.zshrc",
+		"/home/jesse/desktop/dotfiles/.Xresources",
+		"/home/jesse/desktop/dotfiles/.bashrc",
+		"/home/jesse/desktop/zsh-git-prompt/screenshot.png",
+		"/home/jesse/.zcompdump",
+		"/home/jesse/desktop/dotfiles/config",
+		"/etCU",
+		"/home/jesse/development/TeaLeaf/chapter_13/vehicle.rb",
+		"/home/jesse/development/TeaLeaf/chapter_13/good_dog_class.rb",
+		"/home/jesse/development/TeaLeaf/chapter_13/student.rb",
+		"/home/jesse/desktop/dotfiles/makesymlinks.sh",
+		"/home/jesse/desktop/.oh-my-zsh/README.textile",
+		"/home/jesse/downloads/scramble.js",
+		"/home/jesse/downloads/jquery.js",
+		"/home/jesse/development/TeaLeaf/chapter_10-11-12/my_car.rb",
+		"/home/jesse/downloads/cd ..",
+		"/home/jesse/development/TeaLeaf/chapter_10-11-12/good_dog.rb",
+		"/home/jesse/development/TeaLeaf/chapter_10-11-12/obj_creation.rb",
+		"/home/jesse/development/TeaLeaf/chapter_10/good_dog.rb",
+		"/home/jesse/development/TeaLeaf/chapter_10/my_car.rb",
+		"/home/jesse/downloads/js1.html",
+		"/home/jesse/downloads/js1_files/jquery.min.js",
+		"/home/jesse/desktop/dotfiles/.i3status.conf",
+		"/home/jesse/development/js1/js1.html",
+		"/home/jesse/development/TeaLeaf/chapter_10/obj_creation.rb",
+		"/home/jesse/development/projecteuler/02.rb",
+		"/home/jesse/development/TeaLeaf/chapter_9/one_word.rb",
+		"/home/jesse/development/projecteuler/01.rb",
+		"/home/jesse/development/nerdsummit/nodeschool/baby_steps.js",
+		"/home/jesse/development/nerdsummit/nodeschool/hello_world.js",
+		"/home/jesse/development/nerdsummit/nodeschool/my_first_io.js",
+		"/home/jesse/development/nerdsummit/nodeschool/make_it_modular/filtered_ls.js",
+		"/home/jesse/development/nerdsummit/nodeschool/make_it_modular/mod_export.js",
+		"/home/jesse/development/nerdsummit/nodeschool/filtered_ls.js",
+		"/home/jesse/development/nerdsummit/nodeschool/async_io.js",
+		"/home/jesse/development/nerdsummit/nodeschool/my_first_io/my_first_io.js",
+		"/home/jesse/development/nerdsummit/nodeschool/babysteps/baby_steps.js",
+		"/home/jesse/development/nerdsummit/nodeschool/helloworld/hello_world.js",
+		"/home/jesse/development/TeaLeaf/chapter_9/delete_wish_s.rb",
+		"/home/jesse/development/TeaLeaf/chapter_9/loop_hash_move.rb",
+		"/home/jesse/development/TeaLeaf/chapter_9/hash_move.rb",
+		"/home/jesse/development/TeaLeaf/chapter_9/hash_manip.rb",
+		"/home/jesse/development/TeaLeaf/chapter_9/array_iterate_odd.rb",
+		"/home/jesse/development/Git/adopt-a-hydrant/config/locales/en.yml",
+		"/home/jesse/.fehbg",
+		"/home/jesse/.Xresources",
+		"/home/jesse/documents/school/Tenth Grade/Honors English 2/Ideals of American Lit.tex",
+		"/home/jesse/Documents/School/Tenth Grade/Honors English 2/Ideals of American Lit.tex",
+		"/home/jesse/Development/TeaLeaf/chapter_9/multidimensional_hash_access.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/hash_move.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/hash_manip.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/hash_styles.rb",
+		"/home/jesse/.config/FEZ/Settings",
+		"/home/jesse/.i3/config",
+		"/home/jesse/Development/TeaLeaf/chapter_9/array_iterate.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/array_iterate_selective.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/array_iterate_odd.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/array_app_pre.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/array_rm_app.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_9/array_dup_rm.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/boolean_regex.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/lab?.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/proc_example.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/boolean_matchdata.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/passing_block.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/exception_example.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/inline_exception_example.rb",
+		"/home/jesse/Development/TeaLeaf/chapter_8/divide.rb",
+		"/opt/sublime_text_3/changelog.txt",
+		"/home/jesse/Development/Git/adopt-a-hydrant/app/views/sidebar/_tos.html.haml",
+		"/home/jesse/.gitconfig",
+		"/home/jesse/.xinitrc",
+		"/home/jesse/.i3status.conf",
+		"/home/jesse/.i3/i3status.conf",
+		"/home/jesse/Development/Git/adopt-a-hydrant/app/views/main/index.html.haml",
+		"/home/jesse/Development/Git/adopt-a-hydrant/app/views/sidebar/_combo_form.html.haml",
+		"/home/jesse/Development/Git/adopt-a-hydrant/app/assets/javascripts/main.js.erb",
+		"/home/jesse/Development/Git/adopt-a-hydrant/app/views/sidebar/combo_form.html.haml",
+		"/home/jesse/Development/Git/adopt-a-hydrant/config/locales/en.yml",
+		"/home/jesse/.bash_profile",
+		"/home/jesse/.gemrc",
+		"/etc/pacman.conf",
+		"/home/jesse/.xmonad/xmonad.hs",
+		"/home/jesse/.xmobarrc",
+		"/home/jesse/.weechat/weechat.conf",
+		"/home/jesse/Downloads/berry.pcf.gz"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			"",
+			"/home/jesse/Development/Git/adopt-a-hydrant",
+			"/home/jesse/Development/Git/adopt-a-hydrant/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file",
+			"\": ",
+			"ignored",
+			"puts",
+			"\"",
+			"my_",
+			"_locales",
+			"font",
+			"mod",
+			"URxvt",
+			"urxvt",
+			"grade",
+			"think",
+			"span",
+			" text ",
+			"scope",
+			"think",
+			"global",
+			"Expr = Sizzle",
+			"sizzle.selectors",
+			"Expr",
+			"Expr = {",
+			"= {",
+			"global",
+			"hidden",
+			"class=\".hidden\"",
+			"hidden=\"\"",
+			"hidden",
+			"<span>",
+			"hidden",
+			" ",
+			"hidden",
+			"e",
+			"D",
+			"C",
+			"B",
+			"A",
+			"z",
+			"y",
+			"x",
+			"w",
+			"u",
+			"t",
+			"s",
+			"r",
+			"q",
+			"p",
+			"n",
+			"m",
+			"h",
+			"f",
+			"e",
+			"arr2",
+			"theme",
+			"arr2",
+			"arr",
+			"...",
+			"item",
+			"s",
+			"background",
+			"newline",
+			"lock.png",
+			"(private",
+			"lock.png",
+			"/assets/lock.png",
+			"home phone number",
+			"10",
+			"center",
+			"source",
+			"PATH",
+			" PATH",
+			"PATH",
+			"$PATH",
+			"simple"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"",
+			"class=\"hidden\"",
+			"class=\".hidden\"",
+			"",
+			"encodeURIComponent",
+			"\"POST\"",
+			"\"msxml2.XMLHTTP\"",
+			"\"Microsoft.XMLHTTP\"",
+			"\"Content-Type\"",
+			"\"?\"",
+			"\",\"",
+			"\"&rd=\"",
+			"\"&n=\"",
+			"\"&ci=\"",
+			"\"&\"",
+			"\"body\"",
+			"\"prototype\"",
+			"\"length\"",
+			"\"height\"",
+			"\"documentElement\"",
+			"\"width\"",
+			"document",
+			"window",
+			"encodeURIComponent",
+			"arr",
+			"\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "notes.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
