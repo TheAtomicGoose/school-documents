@@ -28,4 +28,12 @@
  *		g.drawRect(x, y, w, h)
  * g.fillOval(x, y, w, h)  Same as last, but with the oval filled in
  *
- *
+ */
+
+
+/* 3.9.2 Drawing in a Program */
+/* \\\\\\\\\\\\\\\\\\\\\\\\\\ */
+
+/*
+ * See DrawFrame.java for a full drawing program.
+ */

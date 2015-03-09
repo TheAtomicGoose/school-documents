@@ -86,7 +86,7 @@ double x = IO.readDouble();
 Escape Sequence | Meaning
 =========================
        \n       | newline
-       \"       | double quote
+       \""      | double quote
        \\       | backslash
 
 
