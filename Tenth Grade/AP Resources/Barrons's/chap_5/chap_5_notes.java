@@ -87,3 +87,47 @@ UML diagrams are a great way to keep track of the relationships between classes.
 
 	// Top-Down Development
 	Top-down design involves starting with an overview of the program, and developing the highest-level controlling object and simplifying from that point.
+
+
+/* Implementing Methods */
+// Procedural Abstraction
+If several methods in a class do{} the same thing, a helper method should be used. The use of helper methods is called procedural
+abstraction. The practice of breaking tasks into smaller tasks to make them more understandable is called stepwise refinement.
+
+// Information Hiding
+Instance variables and helper methods are generally declared as private to keep client classes from accessing them. This is called
+information hiding.
+
+// Stub Method
+Sometimes, when testing, it makes sense to call a method before it has been defined. A stub is a dummy method that stands in for a method
+that hasn''t been written.
+
+// Algorithm
+An algorithm is a precise step-by-step procedure that solves a problem.
+
+// Identifying Classes
+Identify nouns in the spec. Ignore ones like program, data, record, any nouns pertaining to the user, and anything that will be contained
+in an outside file.
+
+// Relationships Between Classes
+The programmer has to decide whether things that a class has{} (has-a type relationship) should be separate classes or data types within
+a class.
+
+// Identifying Behaviors
+Verbs in the spec are used to identify required operations in the program.
+
+
+/* Program Analysis */
+/* Program Correctness */
+Just because a program has been tested does not prove that the program is correct. However, you have to be able to make assertions about
+the state of a program at various points during its execution.
+
+/* Assertions */
+// Precondition
+What is true about a piece of code immediately before its execution.
+
+// Postcondition
+What is true about a piece of code immediately after its execution.
+
+/* Efficiency */
+An efficient algorithm uses minimal CPU time and memory. Always try to end the program as soon as possible.
